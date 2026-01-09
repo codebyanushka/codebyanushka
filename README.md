@@ -12,9 +12,13 @@ I’m learning by doing, breaking things, fixing them,
 and slowly turning ideas into real projects 🚀
 
 🧠 Currently Learning / Exploring
+
 Mobile app development (Flutter)
+
 Backend development (Django, Python)
+
 Databases (PostgreSQL)
+
 Web development (learning step by step)
 
 ✨ What Drives Me
