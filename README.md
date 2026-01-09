@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**codebyanushka/codebyanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Anushka Tiwari, a developer in progress based in India 🇮🇳
 
-Here are some ideas to get you started:
+Right now, I’m exploring a lot of things.
+I’ve built one app so far, and I’m excited to build many more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t want to limit myself to just one label —
+I want to build apps, websites, and whatever ideas I’m curious about next.
+
+I’m learning by doing, breaking things, fixing them,
+and slowly turning ideas into real projects 🚀
+
+🧠 Currently Learning / Exploring
+Mobile app development (Flutter)
+Backend development (Django, Python)
+Databases (PostgreSQL)
+Web development (learning step by step)
+
+✨ What Drives Me
+Curiosity over perfection
+Building over overthinking
+Progress over titles
+
+🎯 Fun Facts
+🐶 I have two dogs
+☕ I don’t like coffee or tea
+🎧 Music is always playing
+🛠 I love building things and making them better
