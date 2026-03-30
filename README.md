@@ -1,10 +1,13 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anushka%20Tiwari&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Builder%20%7C%20Flutter%20%26%20Python&descAlignY=58&descColor=a78bfa" />
+# Hi, I'm Anushka Tiwari 👋
+### Full Stack Developer · AI/ML Builder · Flutter & Python
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+real+products%2C+not+just+projects;AI+%2B+Flutter+%2B+Python+%2B+Django;From+idea+to+deployment+%F0%9F%9A%80;Always+learning%2C+always+shipping" alt="Typing SVG" />
+![](https://img.shields.io/badge/Full%20Stack-Developer-7c3aed?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To-Opportunities-22c55e?style=for-the-badge)
+![](https://img.shields.io/badge/Based%20In-Delhi%2C%20India-f59e0b?style=for-the-badge)
+
+> *"Building real products, not just projects 🚀"*
 
 </div>
 
@@ -94,7 +97,7 @@ I don't just write code — I build things that **actually work**, solve real pr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushkaatiwarii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codebyanushka)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codebyanushka@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyanushka)
 
@@ -104,7 +107,7 @@ I don't just write code — I build things that **actually work**, solve real pr
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+![](https://img.shields.io/badge/-Thanks%20for%20visiting!-7c3aed?style=for-the-badge)
 
 *"Build fast. Break things. Fix them. Ship."*
 
