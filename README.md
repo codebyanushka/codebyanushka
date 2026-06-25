@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=200&section=header&text=Anushka%20Tiwari&fontColor=a78bfa&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%26%20LLM%20Integration%20%C2%B7%20Production-Grade&descSize=17&descAlignY=58&descColor=c4b5fd" alt="Anushka Tiwari" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Anushka+Tiwari&fontColor=a78bfa&fontSize=52&animation=fadeIn&fontAlignY=40" alt="Anushka Tiwari" />
+
+### `Full-Stack Developer · AI/ML & LLM Integration · Production-Grade`
 
 [![Location](https://img.shields.io/badge/Delhi,_India-1a1a2e?style=flat-square&logo=googlemaps&logoColor=a78bfa)](#)
 [![Email](https://img.shields.io/badge/codebyanushka@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=a78bfa)](mailto:codebyanushka@gmail.com)
