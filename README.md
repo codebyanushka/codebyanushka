@@ -21,29 +21,6 @@ $ cat ~/.focus
 
 ---
 
-## > Currently Building
-
-### Yourstylie, AI Wardrobe & Personal Styling App
-Sole developer of a Flutter app (live on the Google Play Store) that recommends outfits from a user's own wardrobe. A computer-vision pipeline detects and tags clothing items, an AI engine assembles outfit suggestions, and the Django REST backend handles Firebase Auth and GDPR-compliant data deletion on AWS EC2.
-
-[![Play Store](https://img.shields.io/badge/LIVE-Google_Play-a78bfa?style=flat-square&logo=googleplay&logoColor=white)](#)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
-### Dermacam, AI Dermatology Platform
-Runs a 7-model parallel ensemble (Groq, HuggingFace, Roboflow) via `concurrent.futures` with majority voting, reaching 93–96% diagnostic accuracy versus a 78–82% single-model baseline. An intelligent body-part router narrows the model set, Redis caching returns repeat results in ~2ms, and a Hinglish Voice AI makes it usable for rural users across a Flutter Android app and a PWA.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Groq Llama 4](https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-
----
-
 ## > Experience
 
 **Full-Stack Developer Intern** · *Motivus Innovation Pvt. Ltd.* — `Aug 2025 – Feb 2026`
@@ -163,26 +140,25 @@ A mood-tracking and mental-health journaling chatbot built with Streamlit.
 
 ---
 
-## > GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyanushka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyanushka&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codebyanushka&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+> **"I don't ship projects — I ship products that real people actually use."**
 
 </div>
 
 ---
 
+## `> stats`
+
 <div align="center">
 
-> **"I don't ship projects — I ship products that real people actually use."**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyanushka&layout=donut&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&langs_count=8)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyanushka&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=8b949e&hide=stars,issues&count_private=true)
+
+</div>
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=120&section=footer" alt="" />
 
