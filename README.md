@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=180&section=header&text=Anushka+Tiwari&fontColor=a78bfa&fontSize=52&animation=fadeIn&fontAlignY=40" alt="Anushka Tiwari" />
 
-### `Full-Stack Developer · AI/ML & LLM Integration · Production-Grade`
+### `AI/ML R&D Engineer · Speech AI · Computer Vision · LLM Systems`
 
 [![Location](https://img.shields.io/badge/Delhi,_India-1a1a2e?style=flat-square&logo=googlemaps&logoColor=a78bfa)](#)
 [![Email](https://img.shields.io/badge/codebyanushka@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=a78bfa)](mailto:codebyanushka@gmail.com)
@@ -13,29 +13,58 @@
 
 ```bash
 $ whoami
-> Anushka Tiwari — full-stack developer shipping production AI apps to real users.
+> Anushka Tiwari — AI/ML R&D engineer building and deploying production AI systems.
 
 $ cat ~/.focus
-> Flutter + Django product engineering · multi-model AI ensembles · cloud deployment
+> Speech AI · Computer Vision · RAG & LLM systems · GPU inference · scalable backends
+
+$ cat ~/.education
+> B.Tech CSE (AI/ML) · Abdul Kalam Technical University, Lucknow · 2023 – 2027
 ```
+
+---
+
+## > About
+
+I take AI systems from research and experimentation all the way to production: multimodal and retrieval-based pipelines, distributed GPU inference, and the backend infrastructure that makes them reliable for real users.
 
 ---
 
 ## > Experience
 
-**Full-Stack Developer Intern** · *Motivus Innovation Pvt. Ltd.* — `Aug 2025 – Feb 2026`
-- Shipped **Xpensure** (Flutter + Django REST + PostgreSQL), adopted org-wide by 150+ employees and eliminating 100% of manual expense workflows.
-- Delivered it cross-platform: Android on the Play Store, web at `xpensure-web.web.app`, plus a SuperAdmin dashboard.
-- Built a CI/CD pipeline with GitHub Actions for zero-downtime releases.
-- Implemented an AWS SNS & SES notification system.
-- Awarded **Outstanding Contributor** for the work.
+### Research & Development Apprentice · [Rootstock Technology](#) — `Jun 2026 – Present` · IIIT Delhi
+- Engineered a **multi-model voice cloning and speech synthesis pipeline** on **2× NVIDIA Tesla V100 32GB GPUs**, integrating VoiceBox, Whisper, ChatBox and LLM components, reaching **~90% voice similarity**.
+- Built a **multilingual speech-to-English transcription and translation engine**, optimizing cross-language accuracy and benchmarking against **Google Gemini**.
+- Developed an **end-to-end course generation engine** using **Milvus, vector embeddings, semantic search, IBM Docling and Knowledge Graphs**.
+- Extended the system to **finance-domain content generation and gap analysis** over heterogeneous documents.
+- Built **FastAPI** backend services and automation workflows with Python, Docker, CUDA and Linux.
+
+### AI Voice Systems Engineer Intern · Telogo Communication Limited — `Feb 2026 – May 2026` · Noida
+- Optimized production speech pipelines for **Indian regional accents**: **~30% better recognition accuracy** and voice-response latency **under 2 seconds** via streaming transcription and model optimization.
+- Engineered concurrent call-handling infrastructure (async task queues, worker pools, auto-scaling REST services) with **zero reported call drops in production**.
+
+### Full-Stack Developer Intern · Motivus Innovation Pvt. Ltd. — `Aug 2025 – Feb 2026` · Noida
+- Built and deployed **Xpensure**, a cross-platform expense platform for **200+ employees**, eliminating **100% of manual expense workflows** across Android, web and SuperAdmin apps.
+- Engineered the **Django REST / PostgreSQL** backend and AWS infrastructure (EC2, NGINX/Gunicorn, SNS/SES). Awarded **Outstanding Contributor**.
 
 ---
 
-## > Projects
+## > Featured Projects
 
-### 1. Yourstylie, AI Wardrobe & Personal Styling App
-Sole-developer Flutter app (live on Google Play) with an AI outfit recommendation engine and a computer-vision pipeline for clothing detection, backed by a scalable Django REST service with Firebase Auth and GDPR-compliant data deletion on AWS EC2.
+### Dermacam — AI Dermatology Platform `Feb – Mar 2026`
+A **7-model parallel inference ensemble** with majority voting (**93–96% accuracy** vs 78–82% for individual models), dynamic model routing, Redis caching with PostgreSQL persistence, and Hinglish voice interaction. Shipped as a Flutter Android app and a PWA.
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Groq Llama 4](https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+
+### Yourstylie — AI Wardrobe & Personal Styling App `Apr – May 2026`
+Production Android app built end-to-end: a **computer-vision pipeline** for clothing detection and classification feeding an **AI outfit recommendation engine**, on a Django REST + PostgreSQL backend deployed on AWS EC2.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
@@ -43,18 +72,8 @@ Sole-developer Flutter app (live on Google Play) with an AI outfit recommendatio
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
-### 2. Dermacam, AI Dermatology Platform
-A 7-model parallel ensemble with majority voting (93–96% accuracy vs 78–82% baseline), an intelligent body-part router, Redis caching at ~2ms cache-hit, and a Hinglish Voice AI — shipped as a Flutter Android app and a PWA.
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Groq Llama 4](https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square&logo=meta&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 3. Xpensure, Enterprise Expense Management
-Org-wide expense platform deployed to 150+ employees during the Motivus internship, running on AWS EC2 behind NGINX with GitHub Actions CI/CD. Earned the Outstanding Contributor Award.
+### Xpensure — Enterprise Expense Management
+Org-wide expense platform with Android, web and SuperAdmin apps, running on AWS EC2 behind NGINX with GitHub Actions CI/CD.
 
 [![Live](https://img.shields.io/badge/LIVE-xpensure--web.web.app-a78bfa?style=flat-square&logo=firebase&logoColor=white)](https://xpensure-web.web.app)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -62,25 +81,6 @@ Org-wide expense platform deployed to 150+ employees during the Motivus internsh
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-### 4. Emosenser, Emotion Detection
-A facial-recognition-based emotion detection system built with OpenCV and a trained ML classifier.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-### 5. Autolead AI Agent, Lead Generation
-An automated lead-generation agent that chains LLM calls with LangChain to source and qualify prospects.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-### 6. Mental Wellness Chatbot
-A mood-tracking and mental-health journaling chatbot built with Streamlit.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -91,52 +91,59 @@ A mood-tracking and mental-health journaling chatbot built with Streamlit.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![Speech](https://img.shields.io/badge/Speech_Processing-7c3aed?style=flat-square&logo=audacity&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_·_NLP/NLU-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=langchain&logoColor=white)
+![Multimodal](https://img.shields.io/badge/Multimodal_AI-7c3aed?style=flat-square&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Inference & Systems**
+![CUDA](https://img.shields.io/badge/CUDA_·_GPU_Inference-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Async](https://img.shields.io/badge/Async_·_Task_Queues_·_Worker_Pools-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Frontend & Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Backend**
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**AI / ML**
-![Prompt Engineering](https://img.shields.io/badge/LLM_Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=flat-square&logo=langchain&logoColor=white)
-![Ensemble](https://img.shields.io/badge/Multi--Model_Ensemble-7c3aed?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq Llama 4](https://img.shields.io/badge/Groq_Llama_4-F55036?style=flat-square&logo=meta&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN_·_Computer_Vision-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Databases**
+**Data & Infrastructure**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_·_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS_EC2_·_SNS_·_SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square&logo=milvus&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD_·_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git_·_GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![Concurrency](https://img.shields.io/badge/Multithreading_·_concurrent.futures-3776AB?style=flat-square&logo=python&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-7c3aed?style=flat-square&logo=buffer&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
 ## > Achievements
 
 ```
-[*] Published 2 production Android apps on Google Play as a B.Tech sophomore — Xpensure & Yourstylie
-[*] Outstanding Contributor Award, Motivus Innovation (2026)
+[*] Outstanding Contributor Award — Motivus Innovation
+[*] ~90% voice similarity on a multi-model voice cloning pipeline (2× Tesla V100)
+[*] ~30% accuracy gain on Indian regional accents, <2s voice-response latency, zero call drops
+[*] Shipped production apps to Google Play: Xpensure & Yourstylie
 ```
+
+---
+
+## > Languages
+
+`English` (Fluent) · `Hindi` (Native) · `Korean` (Conversational) · `French` (Basic) · `German` (Basic)
 
 ---
 
